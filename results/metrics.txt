@@ -1,7 +1,7 @@
-rmse:  12.727922061357855
+rmse:  12.73
 mse:  162.0
-mae:  9.333333333333334
-mape:  0.020538224718361812
+mae:  9.33
+mape:  0.02
 
 Residual mean:  0.02
 Residual variance:  0.22
